@@ -1,2 +1,1 @@
-# byron-learning-repo
- codecademy projects
+This is my first GitHub repo!
